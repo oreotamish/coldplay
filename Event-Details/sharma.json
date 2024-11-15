@@ -1,0 +1,600 @@
+{
+    "data": {
+        "eventInfo": {
+            "title": "Banker OP in the House ft. Piyush Sharma",
+            "goLiveDate": [
+                "04 Apr,",
+                "Sunday Onwards"
+            ],
+            "groupedEventCodes": [],
+            "sortingType": "regionWise",
+            "genreForAnalytics": [
+                "Comedy",
+                "Comedy Shows",
+                "Stand up Comedy"
+            ],
+            "banner": {
+                "desktop": [
+                    {
+                        "src": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-banker-op-in-the-house-ft-piyush-sharma-0-2024-7-16-t-13-17-19.jpg",
+                        "name": "Piyush Sharma Live",
+                        "type": "image",
+                        "videoUrl": "",
+                        "href": ""
+                    }
+                ],
+                "mobile": [
+                    {
+                        "src": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-banker-op-in-the-house-ft-piyush-sharma-0-2024-7-16-t-13-17-19.jpg",
+                        "name": "Piyush Sharma Live",
+                        "type": "image",
+                        "videoUrl": "",
+                        "href": ""
+                    }
+                ],
+                "webListing": [
+                    {
+                        "caption": "Piyush Sharma Live",
+                        "etCode": "ET00131954",
+                        "name": "piyush-sharma-live-et00131954-2024-7-16-t-13-17-19.jpg",
+                        "size": 193037,
+                        "thumbnail": "",
+                        "type": "image",
+                        "url": "https://assets-in.bmscdn.com/nmcms/events/banner/weblisting/piyush-sharma-live-et00131954-2024-7-16-t-13-17-19.jpg"
+                    }
+                ]
+            },
+            "regMetaConfig": {
+                "Transaction": [
+                    {
+                        "custom_field": {
+                            "formType": [
+                                "Transaction"
+                            ]
+                        },
+                        "isMemberidMandatory": false,
+                        "loggedIn_user": false,
+                        "repeatForms": false,
+                        "optionalForm": false,
+                        "single_sub_per_user": false,
+                        "regStart": "2020-05-31T05:15:00Z",
+                        "regEnd": "0001-01-01T00:00:00Z"
+                    }
+                ]
+            },
+            "boSettings": {
+                "webRedirectURL": false,
+                "customDate": false,
+                "customPrice": false
+            },
+            "offers": {
+                "items": []
+            },
+            "published": true,
+            "sponsorship": {
+                "sponsorData": []
+            },
+            "status": "active",
+            "ticketQtyLock": {
+                "cmsFlow": true,
+                "interval": 1,
+                "isValid": true,
+                "limit": 10,
+                "max": 10,
+                "min": 1,
+                "uniqueUser": false,
+                "isDisabledOnSynopsis": false,
+                "isDisabledOnSeatlayout": false
+            },
+            "ticketmodeSettings": {
+                "cmsFlow": true,
+                "electronicTicket": {
+                    "cutoff": 0,
+                    "description": "",
+                    "enabled": false,
+                    "encryptionEnabled": false,
+                    "qrCodeType": "",
+                    "sectionTitle": "",
+                    "templateId": "",
+                    "transferable": false,
+                    "type": ""
+                },
+                "isValid": true,
+                "pageTitle": "Show details"
+            },
+            "widgets": {
+                "liveStreaming": {
+                    "enableDonation": false,
+                    "enableLiveStreaming": false,
+                    "linkDetails": {
+                        "ccemails": [],
+                        "emails": [],
+                        "embedLink": "",
+                        "jobID": "",
+                        "linkType": "",
+                        "rtmpEndpoint": "",
+                        "streamKey": "",
+                        "enablePlaylist": false
+                    },
+                    "playerID": "",
+                    "streamingURL": "https://in.bookmyshow.com/events/piyush-sharma-live/ET00131954/live?webview=true"
+                },
+                "saavn": {
+                    "isEnabled": false
+                }
+            },
+            "settings": {
+                "ageRestrictions": "16yrs +",
+                "appcodes": {
+                    "external": [
+                        "ANDNCPA",
+                        "MI",
+                        "BMSMMT",
+                        "CFT",
+                        "FIFA",
+                        "IOSNCPA",
+                        "NCPA",
+                        "PHONEPE",
+                        "SOCIAL"
+                    ],
+                    "internal": [
+                        "ANDTV",
+                        "MITV",
+                        "WEBOS",
+                        "JIOTV",
+                        "FIRETV",
+                        "MOBAND2",
+                        "MOBIOS3",
+                        "OUTLET",
+                        "OUTLETMAMI",
+                        "OUTLETPDF",
+                        "OUTLETSMS",
+                        "OUTLTSCSMS",
+                        "PAYLATER",
+                        "POS",
+                        "TIZEN",
+                        "TIZENTV",
+                        "TVAND",
+                        "TVAPL",
+                        "TVFIRE",
+                        "TVJIO",
+                        "TVLG",
+                        "TVMI",
+                        "TVOS",
+                        "TVSAM",
+                        "WEBIN",
+                        "WEBTOUCH",
+                        "WEBV2",
+                        "WEB",
+                        "WEBASI"
+                    ]
+                },
+                "category": [
+                    "Comedy Shows"
+                ],
+                "categoryTemp": null,
+                "code": "ET00131954",
+                "codes": [],
+                "duration": 60,
+                "eventGroupCode": "EG00107246",
+                "eventStartDate": "2024-08-03T13:30:00Z",
+                "eventTags": [
+                    "age-bucket-16-to-21",
+                    "age-bucket-22-to-30",
+                    "age-bucket-31-to-45",
+                    "age-bucket-46-to-55",
+                    "age-bucket-55-plus",
+                    "outdoor-events"
+                ],
+                "eventTagsTemp": null,
+                "genre": [
+                    "Comedy"
+                ],
+                "genreTemp": null,
+                "golive": "2021-04-03T18:30:00Z",
+                "showDateRange": false,
+                "imageCode": "piyush-sharma-live-et00131954-2024-7-16-t-13-17-19",
+                "isValid": false,
+                "languageCodes": [
+                    "english",
+                    "hindi"
+                ],
+                "languages": [
+                    "English",
+                    "Hindi"
+                ],
+                "level4Category": [],
+                "level4CategoryTemp": null,
+                "parentID": "ET00135461",
+                "parentURL": "https://in.bookmyshow.com/events/chalta-hai-comedy/ET00135461?webview=true",
+                "region": "MUMBAI",
+                "regionDetails": [],
+                "searchTags": [],
+                "subCategory": [
+                    "Stand up Comedy"
+                ],
+                "subCategoryTemp": null,
+                "subGenres": [],
+                "subGenresTemp": null,
+                "type": "events",
+                "typeTemp": "",
+                "url": "https://in.bookmyshow.com/events/piyush-sharma-live/ET00131954?webview=true",
+                "festivalPassBanner": "",
+                "festivalPassBannerWeb": "",
+                "festivalPassLogo": ""
+            },
+            "cityKey": "Mumbai",
+            "venueKey": "multiple",
+            "dateKey": "multiple",
+            "timeKey": "multiple",
+            "actualVenueKey": "HOLN",
+            "availableFlows": [
+                "venue",
+                "datetime",
+                "tickets",
+                "registration$single"
+            ],
+            "preSale": {
+                "label": ""
+            },
+            "eventCode": "ET00131954",
+            "metaFromDE": {
+                "title": "Banker OP in the House ft. Piyush Sharma",
+                "imageCode": "piyush-sharma-live-et00131954-2024-7-16-t-13-17-19",
+                "eventType": "CT",
+                "genre": [],
+                "language": "English/Hindi",
+                "length": "",
+                "fshareUrl": "https://in.bookmyshow.com/events/piyush-sharma-live/ET00131954",
+                "releaseDate": "",
+                "BannerURL": "//in.bmscdn.com/Events/Mobile/ET00131954.jpg?202411150307",
+                "webRedirectUrl": "https://in.bookmyshow.com/events/piyush-sharma-live/ET00131954"
+            },
+            "dates": {
+                "start": {
+                    "date": "20241116",
+                    "time": "1900"
+                },
+                "end": {
+                    "date": "20241117",
+                    "time": "1730"
+                }
+            },
+            "price": {
+                "minPrice": 359,
+                "maxPrice": 499
+            },
+            "serverTime": 1731667881337,
+            "couponData": {
+                "couponBannerUrl": "",
+                "couponCode": "",
+                "copyCodeMessage": "",
+                "offerType": ""
+            }
+        },
+        "eventCards": {
+            "HOLN": {
+                "20241117": {
+                    "1730": {
+                        "ET00131954-10030-T091": {
+                            "VenueCode": "HOLN",
+                            "SessionID": "10030",
+                            "EventCode": "ET00131954",
+                            "ShowDateDisplay": "Sunday, 17 Nov",
+                            "ShowTime": "05:30 PM",
+                            "cutOffTime": 202411171730,
+                            "VenueName": "House Of Lords: Navi Mumbai",
+                            "CinemaIsSVG": "NONSVG",
+                            "IsSVG": "N",
+                            "location": "Mumbai",
+                            "locationCode": "MUMBAI",
+                            "dtmTime": "17-11-2024 17:30:00",
+                            "VenueMax": "",
+                            "VenueAddress": "701, Cyber One, Sector 30A, Vashi, Navi Mumbai, Maharashtra 400703, India",
+                            "PriceCode": "T091",
+                            "PriceDesc": "EARLY BIRD",
+                            "Price": "449.00",
+                            "SeatsAvail": "N",
+                            "MaxTickets": 0,
+                            "AreaCatCode": "AC00000091",
+                            "SeatLayout": "N",
+                            "AvailableSeats": 0,
+                            "TotalSeats": 10,
+                            "CategorySalesChannel": "|M5|MOBILE|OUTLET|PAYLATER|POS|TP|WEB|",
+                            "PriceDescEX": [],
+                            "DynamicPrice": "",
+                            "PriceSequence": "1"
+                        },
+                        "ET00131954-10030-T092": {
+                            "VenueCode": "HOLN",
+                            "SessionID": "10030",
+                            "EventCode": "ET00131954",
+                            "ShowDateDisplay": "Sunday, 17 Nov",
+                            "ShowTime": "05:30 PM",
+                            "cutOffTime": 202411171730,
+                            "VenueName": "House Of Lords: Navi Mumbai",
+                            "CinemaIsSVG": "NONSVG",
+                            "IsSVG": "N",
+                            "location": "Mumbai",
+                            "locationCode": "MUMBAI",
+                            "dtmTime": "17-11-2024 17:30:00",
+                            "VenueMax": "",
+                            "VenueAddress": "701, Cyber One, Sector 30A, Vashi, Navi Mumbai, Maharashtra 400703, India",
+                            "PriceCode": "T092",
+                            "PriceDesc": "STANDARD",
+                            "Price": "499.00",
+                            "SeatsAvail": "Y",
+                            "MaxTickets": 10,
+                            "AreaCatCode": "AC00000092",
+                            "SeatLayout": "N",
+                            "AvailableSeats": 13,
+                            "TotalSeats": 20,
+                            "CategorySalesChannel": "|M5|MOBILE|OUTLET|PAYLATER|POS|TP|WEB|",
+                            "PriceDescEX": [],
+                            "DynamicPrice": "",
+                            "PriceSequence": "1"
+                        }
+                    }
+                }
+            },
+            "YFFS": {
+                "20241116": {
+                    "1900": {
+                        "ET00131954-10065-T110": {
+                            "VenueCode": "YFFS",
+                            "SessionID": "10065",
+                            "EventCode": "ET00131954",
+                            "ShowDateDisplay": "Tomorrow, 16 Nov",
+                            "ShowTime": "07:00 PM",
+                            "cutOffTime": 202411161900,
+                            "VenueName": "Flat Feet Studio: Mumbai",
+                            "CinemaIsSVG": "NONSVG",
+                            "IsSVG": "N",
+                            "location": "Mumbai",
+                            "locationCode": "MUMBAI",
+                            "dtmTime": "16-11-2024 19:00:00",
+                            "VenueMax": "",
+                            "VenueAddress": "Morya Landmark 1, 515, Off Link Road, Opposite Infiniti Mall, Veera Desai Industrial Estate, Andheri West, Mumbai, Maharashtra 400053, India",
+                            "PriceCode": "T110",
+                            "PriceDesc": "EARLY BIRD",
+                            "Price": "359.00",
+                            "SeatsAvail": "Y",
+                            "MaxTickets": 3,
+                            "AreaCatCode": "AC00000110",
+                            "SeatLayout": "N",
+                            "AvailableSeats": 3,
+                            "TotalSeats": 5,
+                            "CategorySalesChannel": "|M5|MOBILE|OUTLET|PAYLATER|POS|TP|WEB|",
+                            "PriceDescEX": [],
+                            "DynamicPrice": "",
+                            "PriceSequence": "1"
+                        },
+                        "ET00131954-10065-T111": {
+                            "VenueCode": "YFFS",
+                            "SessionID": "10065",
+                            "EventCode": "ET00131954",
+                            "ShowDateDisplay": "Tomorrow, 16 Nov",
+                            "ShowTime": "07:00 PM",
+                            "cutOffTime": 202411161900,
+                            "VenueName": "Flat Feet Studio: Mumbai",
+                            "CinemaIsSVG": "NONSVG",
+                            "IsSVG": "N",
+                            "location": "Mumbai",
+                            "locationCode": "MUMBAI",
+                            "dtmTime": "16-11-2024 19:00:00",
+                            "VenueMax": "",
+                            "VenueAddress": "Morya Landmark 1, 515, Off Link Road, Opposite Infiniti Mall, Veera Desai Industrial Estate, Andheri West, Mumbai, Maharashtra 400053, India",
+                            "PriceCode": "T111",
+                            "PriceDesc": "STANDARD",
+                            "Price": "399.00",
+                            "SeatsAvail": "Y",
+                            "MaxTickets": 10,
+                            "AreaCatCode": "AC00000111",
+                            "SeatLayout": "N",
+                            "AvailableSeats": 12,
+                            "TotalSeats": 15,
+                            "CategorySalesChannel": "|M5|MOBILE|OUTLET|PAYLATER|POS|TP|WEB|",
+                            "PriceDescEX": [],
+                            "DynamicPrice": "",
+                            "PriceSequence": "1"
+                        }
+                    }
+                }
+            }
+        },
+        "venueInfo": {
+            "Mumbai": {
+                "HOLN": {
+                    "VenueCode": "HOLN",
+                    "VenueName": "House Of Lords: Navi Mumbai",
+                    "CinemaIsSVG": "NONSVG",
+                    "location": "Mumbai",
+                    "Latitude": "19.0677",
+                    "Longitude": "72.993",
+                    "VenueType": "BT",
+                    "DisplayGroupCode": "HOLN",
+                    "VenueAddress": "701, Cyber One, Sector 30A, Vashi, Navi Mumbai, Maharashtra 400703, India",
+                    "AdditionalData": {
+                        "ChargeBF": "",
+                        "SDEnable": "N",
+                        "SDSeatDirection": "0",
+                        "SDSeatGap": "0"
+                    },
+                    "IsFullLayout": "N"
+                },
+                "YFFS": {
+                    "VenueCode": "YFFS",
+                    "VenueName": "Flat Feet Studio: Mumbai",
+                    "CinemaIsSVG": "NONSVG",
+                    "location": "Mumbai",
+                    "Latitude": "19.1406",
+                    "Longitude": "72.8334",
+                    "VenueType": "BT",
+                    "DisplayGroupCode": "YFFS",
+                    "VenueAddress": "Morya Landmark 1, 515, Off Link Road, Opposite Infiniti Mall, Veera Desai Industrial Estate, Andheri West, Mumbai, Maharashtra 400053, India",
+                    "AdditionalData": {
+                        "ChargeBF": "",
+                        "SDEnable": "N",
+                        "SDSeatDirection": "0",
+                        "SDSeatGap": "0"
+                    },
+                    "IsFullLayout": "N"
+                }
+            }
+        },
+        "seoInfo": {
+            "eventStatus": "",
+            "flags": {
+                "blockSEOBot": false,
+                "isDescriptionChanged": false
+            },
+            "mainEventType": "",
+            "noindex": ""
+        },
+        "artistsInfo": {
+            "Artist": [
+                {
+                    "CastCode": "1054926",
+                    "CastName": "Piyush Sharma",
+                    "CastImageCode": "1054926"
+                }
+            ]
+        },
+        "payment": {
+            "flags": {
+                "singleTransaction": false,
+                "zeroBookingFee": false
+            },
+            "handler": "native",
+            "validatedCheckout": false
+        },
+        "seating": {
+            "flags": {
+                "enableUSS": false,
+                "enabled360": false
+            },
+            "isValid": false
+        },
+        "social": {},
+        "flags": {
+            "isSearchable": true,
+            "checkMaximumTicketLock": false,
+            "hasCorporateBooking": false,
+            "hasDynamicPricing": false,
+            "hasHDPickup": false,
+            "hasOffer": false,
+            "hasOverViewLayout": false,
+            "hasSeatsViewLayout": false,
+            "hasSelectionViewLayout": false,
+            "hideBookingCTA": false,
+            "isCalendar": false,
+            "isCarousel": false,
+            "gstInvoiceEnabled": false,
+            "isCart": false,
+            "isComingSoon": false,
+            "isDescDriven": false,
+            "isFilmFestival": false,
+            "isGroupPage": false,
+            "isHomeDelivery": false,
+            "isMTicket": false,
+            "isMerchandise": false,
+            "isMultiCategory": false,
+            "isPickup": false,
+            "isUserLocked": false,
+            "showAds": true,
+            "showDateRange": false,
+            "showInterestedSection": true,
+            "showSalesTrend": true,
+            "showSimilarEvents": false,
+            "status": false,
+            "virtualEventEnabled": false,
+            "hasStandalone": false,
+            "hasPresales": false,
+            "hasPresalesRegistration": false,
+            "hasPresalesOnHold": false,
+            "hasPresalesPassed": false,
+            "hasOptionalForm": false,
+            "isRSVP": false,
+            "hasEventStartDatePassed": true,
+            "isRegistration": true,
+            "isTransactional": true,
+            "isMultipleForm": false,
+            "isTargettingTickets": false,
+            "isSkippable": false,
+            "hasNewPresales": false,
+            "isSoldOut": false,
+            "areSessionsClosed": false,
+            "hasSeatLayoutInTickets": false,
+            "isVaccination": false,
+            "IsTicketCategorySelection": false,
+            "hasFestivalPass": false,
+            "checkFakeID": false,
+            "isKidzaniaEvent": false,
+            "isBFSIEnabled": false,
+            "isOldStepperFlow": false
+        },
+        "sessionAvailabilityMap": {
+            "config": {
+                "HOLN": {
+                    "20241117": {
+                        "availableSeatsToDisplay": {},
+                        "showTimes": {
+                            "1730": 2
+                        },
+                        "status": 2
+                    }
+                },
+                "YFFS": {
+                    "20241116": {
+                        "availableSeatsToDisplay": {},
+                        "showTimes": {
+                            "1900": 3
+                        },
+                        "status": 3
+                    }
+                }
+            },
+            "legend": {
+                "0": "Do Not Color",
+                "1": "Sold Out",
+                "2": "Filling Fast",
+                "3": "Available"
+            }
+        },
+        "sessionsInfo": [
+            {
+                "date": "20241116",
+                "time": "1900",
+                "venueCode": "YFFS",
+                "sessionID": "10065",
+                "additionalData": {
+                    "ChargeBF": "",
+                    "SDEnable": "N",
+                    "SDSeatDirection": "0",
+                    "SDSeatGap": "0"
+                }
+            },
+            {
+                "date": "20241117",
+                "time": "1730",
+                "venueCode": "HOLN",
+                "sessionID": "10030",
+                "additionalData": {
+                    "ChargeBF": "",
+                    "SDEnable": "N",
+                    "SDSeatDirection": "0",
+                    "SDSeatGap": "0"
+                }
+            }
+        ],
+        "ticketGroups": {},
+        "reasonsToAttend": [
+            "",
+            "",
+            ""
+        ],
+        "bmsId": "1.1472350279.1725543533802",
+        "groupInfo": null
+    },
+    "status": 200
+}

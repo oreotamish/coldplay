@@ -1,0 +1,31 @@
+{
+    "data": {
+        "ticketQtyLock": {
+            "venues": [
+                {
+                    "venueCode": "HOLN",
+                    "sessions": [
+                        {
+                            "sessionId": "10030",
+                            "tickets": [
+                                {
+                                    "ticketId": "T092",
+                                    "min": 1,
+                                    "max": 10,
+                                    "interval": 1
+                                },
+                                {
+                                    "ticketId": "T091",
+                                    "min": 1,
+                                    "max": 10,
+                                    "interval": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "status": 200
+}

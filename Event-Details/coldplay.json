@@ -1,0 +1,602 @@
+{
+    "data": {
+        "eventInfo": {
+            "title": "Coldplay: Music Of The Spheres World Tour",
+            "goLiveDate": [
+                "07 Nov,",
+                "Thursday Onwards"
+            ],
+            "groupedEventCodes": [],
+            "sortingType": "regionWise",
+            "genreForAnalytics": [
+                "Alternative",
+                "International",
+                "Pop",
+                "Rock",
+                "Music Shows",
+                "Concerts",
+                "Music Festivals"
+            ],
+            "banner": {
+                "desktop": [
+                    {
+                        "src": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-coldplay-music-of-the-spheres-world-tour-0-2024-11-13-t-6-7-27.jpg",
+                        "name": "Coldplay: Music Of The Spheres World Tour",
+                        "type": "image",
+                        "videoUrl": "",
+                        "href": ""
+                    }
+                ],
+                "mobile": [
+                    {
+                        "src": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-coldplay-music-of-the-spheres-world-tour-0-2024-11-13-t-6-7-27.jpg",
+                        "name": "Coldplay: Music Of The Spheres World Tour",
+                        "type": "image",
+                        "videoUrl": "",
+                        "href": ""
+                    }
+                ],
+                "webListing": [
+                    {
+                        "caption": "Coldplay: Music Of The Spheres World Tour",
+                        "etCode": "ET00418889",
+                        "name": "coldplay-music-of-the-spheres-world-tour-et00418889-2024-11-13-t-6-7-27.jpg",
+                        "size": 121757,
+                        "thumbnail": "",
+                        "type": "image",
+                        "url": "https://assets-in.bmscdn.com/nmcms/events/banner/weblisting/coldplay-music-of-the-spheres-world-tour-et00418889-2024-11-13-t-6-7-27.jpg"
+                    }
+                ]
+            },
+            "regMetaConfig": {},
+            "boSettings": {
+                "webRedirectURL": false,
+                "customDate": false,
+                "customPrice": false
+            },
+            "offers": {
+                "items": []
+            },
+            "published": true,
+            "sponsorship": {
+                "sponsorData": [
+                    {
+                        "imageShowcase": {
+                            "description": "",
+                            "image": {
+                                "caption": "",
+                                "fileType": "",
+                                "name": "",
+                                "size": 0,
+                                "targetURL": "",
+                                "thumbnail": "",
+                                "type": "",
+                                "url": ""
+                            },
+                            "imageName": "",
+                            "logo": {
+                                "caption": "",
+                                "fileType": "",
+                                "name": "",
+                                "size": 0,
+                                "targetURL": "",
+                                "thumbnail": "",
+                                "type": "",
+                                "url": ""
+                            },
+                            "redirectURL": "",
+                            "sponsorName": "",
+                            "sponsorType": "",
+                            "title": ""
+                        },
+                        "leadGen": {
+                            "description": "",
+                            "logo": {
+                                "caption": "",
+                                "fileType": "",
+                                "name": "",
+                                "size": 0,
+                                "targetURL": "",
+                                "thumbnail": "",
+                                "type": "",
+                                "url": ""
+                            },
+                            "sponsorName": "",
+                            "sponsorType": "",
+                            "title": ""
+                        },
+                        "logoShowcase": {
+                            "logo": {
+                                "caption": "",
+                                "fileType": "",
+                                "name": "",
+                                "size": 0,
+                                "targetURL": "",
+                                "thumbnail": "",
+                                "type": "",
+                                "url": ""
+                            },
+                            "redirectURL": "",
+                            "sponsorName": "",
+                            "sponsorType": ""
+                        },
+                        "showcaseType": "",
+                        "textAndImage": {
+                            "description": "",
+                            "feature": {
+                                "feature1": "",
+                                "feature2": "",
+                                "feature3": "",
+                                "feature4": ""
+                            },
+                            "image": {
+                                "caption": "",
+                                "fileType": "",
+                                "name": "",
+                                "size": 0,
+                                "targetURL": "",
+                                "thumbnail": "",
+                                "type": "",
+                                "url": ""
+                            },
+                            "imageName": "",
+                            "logo": {
+                                "caption": "",
+                                "fileType": "",
+                                "name": "",
+                                "size": 0,
+                                "targetURL": "",
+                                "thumbnail": "",
+                                "type": "",
+                                "url": ""
+                            },
+                            "redirectURL": "",
+                            "sponsorName": "",
+                            "sponsorType": "",
+                            "title": ""
+                        },
+                        "tierType": "",
+                        "videoShowcase": {
+                            "description": "",
+                            "logo": {
+                                "caption": "",
+                                "fileType": "",
+                                "name": "",
+                                "size": 0,
+                                "targetURL": "",
+                                "thumbnail": "",
+                                "type": "",
+                                "url": ""
+                            },
+                            "sponsorName": "",
+                            "sponsorType": "",
+                            "title": "",
+                            "videoURL": ""
+                        }
+                    }
+                ]
+            },
+            "status": "active",
+            "ticketQtyLock": {
+                "cmsFlow": true,
+                "interval": 1,
+                "isValid": true,
+                "limit": 10,
+                "max": 10,
+                "min": 1,
+                "uniqueUser": false,
+                "isDisabledOnSynopsis": false,
+                "isDisabledOnSeatlayout": false
+            },
+            "ticketmodeSettings": {
+                "cmsFlow": true,
+                "electronicTicket": {
+                    "cutoff": 0,
+                    "description": "",
+                    "enabled": false,
+                    "encryptionEnabled": false,
+                    "qrCodeType": "",
+                    "sectionTitle": "",
+                    "templateId": "",
+                    "transferable": false,
+                    "type": ""
+                },
+                "isValid": true,
+                "pageTitle": "Ticket options"
+            },
+            "widgets": {
+                "liveStreaming": {
+                    "enableDonation": false,
+                    "enableLiveStreaming": false,
+                    "linkDetails": {
+                        "ccemails": [],
+                        "emails": [],
+                        "embedLink": "",
+                        "jobID": "",
+                        "linkType": "",
+                        "rtmpEndpoint": "",
+                        "streamKey": "",
+                        "enablePlaylist": false
+                    },
+                    "playerID": "",
+                    "streamingURL": "https://in.bookmyshow.com/events/coldplay-music-of-the-spheres-world-tour/ET00418889/live?webview=true"
+                },
+                "saavn": {
+                    "isEnabled": false
+                }
+            },
+            "settings": {
+                "ageRestrictions": "5yrs +",
+                "appcodes": {
+                    "external": [
+                        "ANDNCPA",
+                        "MI",
+                        "BMSMMT",
+                        "CFT",
+                        "FIFA",
+                        "IOSNCPA",
+                        "NCPA",
+                        "PHONEPE",
+                        "ZOMATO",
+                        "SOCIAL"
+                    ],
+                    "internal": [
+                        "ANDTV",
+                        "MITV",
+                        "WEBOS",
+                        "JIOTV",
+                        "CLOUDTV",
+                        "FIRETV",
+                        "MOBAND2",
+                        "MOBIOS3",
+                        "OUTLET",
+                        "OUTLETMAMI",
+                        "OUTLETPDF",
+                        "OUTLETSMS",
+                        "OUTLTSCSMS",
+                        "PAYLATER",
+                        "POS",
+                        "TIZEN",
+                        "TIZENTV",
+                        "TVAND",
+                        "TVAPL",
+                        "TVFIRE",
+                        "TVJIO",
+                        "TVLG",
+                        "TVMI",
+                        "TVOS",
+                        "TVSAM",
+                        "WEBIN",
+                        "WEBTOUCH",
+                        "WEBV2",
+                        "WEB",
+                        "WEBASI"
+                    ]
+                },
+                "category": [
+                    "Music Shows"
+                ],
+                "categoryTemp": null,
+                "code": "ET00418889",
+                "codes": [],
+                "duration": 240,
+                "eventGroupCode": "EG00417097",
+                "eventStartDate": "2025-01-25T00:00:00Z",
+                "eventTags": [
+                    "outdoor-events",
+                    "world-music",
+                    "age-bucket-16-to-21",
+                    "age-bucket-22-to-30",
+                    "age-bucket-31-to-45",
+                    "age-bucket-46-to-55",
+                    "age-bucket-55-plus",
+                    "age-bucket-8-to-15",
+                    "must-attend",
+                    "unmissable-events"
+                ],
+                "eventTagsTemp": null,
+                "genre": [
+                    "Alternative",
+                    "International",
+                    "Pop",
+                    "Rock"
+                ],
+                "genreTemp": null,
+                "golive": "2024-11-06T18:30:00Z",
+                "showDateRange": false,
+                "imageCode": "coldplay-music-of-the-spheres-world-tour-et00418889-2024-11-13-t-7-9-5",
+                "isValid": false,
+                "languageCodes": [
+                    "english"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "level4Category": [],
+                "level4CategoryTemp": null,
+                "region": "AHD",
+                "regionDetails": [],
+                "searchTags": [
+                    "cp",
+                    "cold",
+                    "co",
+                    "col",
+                    "coldplay",
+                    "yell0w",
+                    "yellow"
+                ],
+                "subCategory": [
+                    "Concerts",
+                    "Music Festivals"
+                ],
+                "subCategoryTemp": null,
+                "subGenres": [],
+                "subGenresTemp": null,
+                "type": "events",
+                "typeTemp": "",
+                "url": "https://in.bookmyshow.com/events/coldplay-music-of-the-spheres-world-tour/ET00418889?webview=true",
+                "festivalPassBanner": "",
+                "festivalPassBannerWeb": "",
+                "festivalPassLogo": ""
+            },
+            "cityKey": "Ahmedabad",
+            "venueKey": "SPSM",
+            "dateKey": "20250125",
+            "timeKey": "1800",
+            "actualVenueKey": "SPSM",
+            "availableFlows": [
+                "tickets"
+            ],
+            "preSale": {
+                "label": ""
+            },
+            "eventCode": "ET00418889",
+            "metaFromDE": {
+                "title": "Coldplay: Music Of The Spheres World Tour",
+                "imageCode": "coldplay-music-of-the-spheres-world-tour-et00418889-2024-11-13-t-6-7-27",
+                "eventType": "CT",
+                "genre": [],
+                "language": "English",
+                "length": "",
+                "fshareUrl": "https://in.bookmyshow.com/events/coldplay-music-of-the-spheres-world-tour/ET00418889",
+                "releaseDate": "",
+                "BannerURL": "//in.bmscdn.com/Events/Mobile/ET00418889.jpg?202411150403",
+                "webRedirectUrl": "https://in.bookmyshow.com/events/coldplay-music-of-the-spheres-world-tour/ET00418889"
+            },
+            "dates": {
+                "start": {
+                    "date": "20250125",
+                    "time": "1800"
+                },
+                "end": {
+                    "date": "20250125",
+                    "time": "1800"
+                }
+            },
+            "price": {
+                "minPrice": 2500,
+                "maxPrice": 3000
+            },
+            "serverTime": 1731666859047,
+            "couponData": {
+                "couponBannerUrl": "",
+                "couponCode": "",
+                "copyCodeMessage": "",
+                "offerType": ""
+            }
+        },
+        "eventCards": {
+            "SPSM": {
+                "20250125": {
+                    "1800": {
+                        "ET00418889-10088-T448": {
+                            "VenueCode": "SPSM",
+                            "SessionID": "10088",
+                            "EventCode": "ET00418889",
+                            "ShowDateDisplay": "Saturday, 25 Jan",
+                            "ShowTime": "06:00 PM",
+                            "cutOffTime": 202501252000,
+                            "VenueName": "Narendra Modi Stadium, Motera: Ahmedabad",
+                            "CinemaIsSVG": "NONSVG",
+                            "IsSVG": "N",
+                            "location": "Ahmedabad",
+                            "locationCode": "AHD",
+                            "dtmTime": "25-01-2025 18:00:00",
+                            "VenueMax": "",
+                            "VenueAddress": "Motera Stadium Road, Motera, Ahmedabad, Gujarat 380005, India",
+                            "PriceCode": "T448",
+                            "PriceDesc": "BLOCK L BAY 1-UPPER",
+                            "Price": "2500.00",
+                            "SeatsAvail": "Y",
+                            "MaxTickets": 1,
+                            "AreaCatCode": "AC00000306",
+                            "SeatLayout": "N",
+                            "AvailableSeats": 1,
+                            "TotalSeats": 1,
+                            "CategorySalesChannel": "|WEB|OUTLET|TP|M5|MOBILE|PAYLATER|POS|",
+                            "PriceDescEX": [],
+                            "DynamicPrice": "",
+                            "PriceSequence": "1"
+                        },
+                        "ET00418889-10088-T449": {
+                            "VenueCode": "SPSM",
+                            "SessionID": "10088",
+                            "EventCode": "ET00418889",
+                            "ShowDateDisplay": "Saturday, 25 Jan",
+                            "ShowTime": "06:00 PM",
+                            "cutOffTime": 202501252000,
+                            "VenueName": "Narendra Modi Stadium, Motera: Ahmedabad",
+                            "CinemaIsSVG": "NONSVG",
+                            "IsSVG": "N",
+                            "location": "Ahmedabad",
+                            "locationCode": "AHD",
+                            "dtmTime": "25-01-2025 18:00:00",
+                            "VenueMax": "",
+                            "VenueAddress": "Motera Stadium Road, Motera, Ahmedabad, Gujarat 380005, India",
+                            "PriceCode": "T449",
+                            "PriceDesc": "BLOCK C BAY 1-LOWER",
+                            "Price": "3000.00",
+                            "SeatsAvail": "Y",
+                            "MaxTickets": 1,
+                            "AreaCatCode": "AC00000307",
+                            "SeatLayout": "N",
+                            "AvailableSeats": 1,
+                            "TotalSeats": 1,
+                            "CategorySalesChannel": "|WEB|OUTLET|TP|M5|MOBILE|PAYLATER|POS|",
+                            "PriceDescEX": [],
+                            "DynamicPrice": "",
+                            "PriceSequence": "1"
+                        }
+                    }
+                }
+            }
+        },
+        "venueInfo": {
+            "Ahmedabad": {
+                "SPSM": {
+                    "VenueCode": "SPSM",
+                    "VenueName": "Narendra Modi Stadium, Motera: Ahmedabad",
+                    "CinemaIsSVG": "NONSVG",
+                    "location": "Ahmedabad",
+                    "Latitude": "23.0918",
+                    "Longitude": "72.5976",
+                    "VenueType": "BT",
+                    "DisplayGroupCode": "SPSM",
+                    "VenueAddress": "Motera Stadium Road, Motera, Ahmedabad, Gujarat 380005, India",
+                    "AdditionalData": {
+                        "ChargeBF": "",
+                        "SDEnable": "N",
+                        "SDSeatDirection": "0",
+                        "SDSeatGap": "0"
+                    },
+                    "IsFullLayout": "Y"
+                }
+            }
+        },
+        "seoInfo": {
+            "eventStatus": "",
+            "flags": {
+                "blockSEOBot": false,
+                "isDescriptionChanged": false
+            },
+            "mainEventType": "",
+            "noindex": ""
+        },
+        "artistsInfo": {},
+        "payment": {
+            "flags": {
+                "singleTransaction": false,
+                "zeroBookingFee": false
+            },
+            "handler": "native",
+            "validatedCheckout": false
+        },
+        "seating": {
+            "flags": {
+                "enableUSS": false,
+                "enabled360": false
+            },
+            "isValid": false
+        },
+        "social": {},
+        "flags": {
+            "isSearchable": true,
+            "checkMaximumTicketLock": false,
+            "hasCorporateBooking": false,
+            "hasDynamicPricing": false,
+            "hasHDPickup": false,
+            "hasOffer": false,
+            "hasOverViewLayout": false,
+            "hasSeatsViewLayout": false,
+            "hasSelectionViewLayout": false,
+            "hideBookingCTA": false,
+            "isCalendar": false,
+            "isCarousel": false,
+            "gstInvoiceEnabled": true,
+            "isCart": false,
+            "isComingSoon": true,
+            "isDescDriven": false,
+            "isFilmFestival": false,
+            "isGroupPage": false,
+            "isHomeDelivery": false,
+            "isMTicket": false,
+            "isMerchandise": false,
+            "isMultiCategory": false,
+            "isPickup": false,
+            "isUserLocked": false,
+            "showAds": true,
+            "showDateRange": false,
+            "showInterestedSection": true,
+            "showSalesTrend": true,
+            "showSimilarEvents": true,
+            "status": false,
+            "virtualEventEnabled": false,
+            "hasStandalone": false,
+            "hasPresales": false,
+            "hasPresalesRegistration": false,
+            "hasPresalesOnHold": false,
+            "hasPresalesPassed": false,
+            "hasOptionalForm": false,
+            "isRSVP": false,
+            "hasEventStartDatePassed": false,
+            "isRegistration": false,
+            "isTransactional": false,
+            "isMultipleForm": false,
+            "isTargettingTickets": false,
+            "isSkippable": false,
+            "hasNewPresales": false,
+            "isSoldOut": false,
+            "areSessionsClosed": false,
+            "hasSeatLayoutInTickets": false,
+            "isVaccination": false,
+            "IsTicketCategorySelection": false,
+            "hasFestivalPass": false,
+            "checkFakeID": false,
+            "isKidzaniaEvent": false,
+            "isBFSIEnabled": false,
+            "isOldStepperFlow": false
+        },
+        "sessionAvailabilityMap": {
+            "config": {
+                "SPSM": {
+                    "20250125": {
+                        "availableSeatsToDisplay": {},
+                        "showTimes": {
+                            "1800": 3
+                        },
+                        "status": 3
+                    }
+                }
+            },
+            "legend": {
+                "0": "Do Not Color",
+                "1": "Sold Out",
+                "2": "Filling Fast",
+                "3": "Available"
+            }
+        },
+        "sessionsInfo": [
+            {
+                "date": "20250125",
+                "time": "1800",
+                "venueCode": "SPSM",
+                "sessionID": "10088",
+                "additionalData": {
+                    "ChargeBF": "",
+                    "SDEnable": "N",
+                    "SDSeatDirection": "0",
+                    "SDSeatGap": "0"
+                }
+            }
+        ],
+        "ticketGroups": {},
+        "reasonsToAttend": [
+            "",
+            "",
+            ""
+        ],
+        "bmsId": "1.1472350279.1725543533802",
+        "groupInfo": null
+    },
+    "status": 200
+}
